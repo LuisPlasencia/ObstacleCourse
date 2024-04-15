@@ -1,5 +1,5 @@
 # ObstacleCourse
-Unity Obstacles Game <br>
+Unity 3.1.2 Obstacles Game <br>
 - Avoid obstacles
 - Arrow keys to move
 
